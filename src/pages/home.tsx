@@ -7,8 +7,8 @@ function App() {
         className="mb-10"
         width={56}
         height={56}
-        src="/src/assets/thead.png"
-      ></img>
+        src="../src/assets/thead.png"
+      />
       <div className="max-w-xl mb-4">
         <h1 className="text-4xl font-black mb-4 text-emerald-500">
           A MELHOR CHAPA DO
