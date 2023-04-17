@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: comfortaa;
+    src: url(/src/assets/font/Comfortaa-Bold.ttf);
+}
+@font-face {
+    font-family: lightc;
+    src: url(/src/assets/font/Comfortaa-Light.ttf);
+}
+@font-face {
+    font-family: inter;
+    src: url(/src/assets/font/Inter-Regular.ttf);
+}
+
+@layer base{
+    h1 {
+        font-family: comfortaa;
+    }
+    span {
+        font-family: lightc;
+    }
+    p{
+        font-family: inter;
+    }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Os candidatos 2023",
+  "CandidatosG": [
+    {
+      "id": "1",
+      "name": "Arthur",
+      "proposta": "Sed efficitur nunc in est ullamcorper tempor. Maecenas sed semper tellus. Pellentesque eu dolor eget lacus cursus egestas. Cras accumsan vitae augue nec pulvinar. Phasellus porta risus at mauris malesuada vestibulum. Aliquam nec urna nibh. Aliquam at sem aliquam, fermentum ante id, fermentum ligula. Curabitur non fermentum elit. Ut orci ante, convallis quis nulla eu, eleifend tempor tortor. Mauris in ex accumsan, condimentum urna venenatis, accumsan justo. Pellentesque blandit vestibulum sem, eget molestie massa mattis pretium. Nulla tempus ut nunc a tempus. Aliquam nec lacinia arcu, ac aliquam libero.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    },
+    {
+      "id": "2",
+      "name": "Domenyk",
+      "proposta": "Donec sodales venenatis pulvinar. Donec neque libero, vulputate at augue sed, suscipit luctus nibh. Donec erat tellus, vestibulum at metus vitae, pharetra semper libero. Nam facilisis molestie pretium. Etiam finibus, nisi at rhoncus sagittis, orci augue condimentum mi, at suscipit velit lectus quis ipsum. Quisque in tristique nunc. Suspendisse molestie gravida sapien vitae euismod.",
+      "foto": "https://next-domenyk.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdomenyk.c19176b7.png&w=96&q=75"
+    },
+    {
+      "id": "3",
+      "name": "Melo",
+      "proposta": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a fermentum mauris, quis aliquam tellus. Nulla eget interdum enim, at finibus mi. Sed in gravida tellus. Phasellus quis malesuada justo. In eros odio, lacinia quis molestie rutrum, tincidunt at mauris. Sed ultricies non mi eget placerat. Donec sem urna, pulvinar et odio sed, luctus tincidunt velit. Curabitur ultrices ornare velit, in condimentum nisi vulputate in. Donec porttitor consectetur ipsum, vel sodales arcu venenatis id. Suspendisse quis ultricies felis, eu venenatis dui. Suspendisse vestibulum nunc a ex tincidunt, vel pharetra lacus iaculis.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    },
+    {
+      "id": "4",
+      "name": "Kezia",
+      "proposta": "Sed blandit nunc ac tellus facilisis, quis venenatis urna ornare. Fusce ullamcorper egestas leo eget pulvinar. In nec gravida nunc. Fusce in convallis ex, vitae finibus erat. Suspendisse mattis velit molestie felis pellentesque, at vulputate urna fringilla. Proin rutrum justo ut velit porta semper. In facilisis risus sit amet dictum vulputate. Morbi sodales neque lacus, eu efficitur tellus consequat eu. Donec sed consequat lorem, sed gravida nibh.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    },
+    {
+      "id": "5",
+      "name": "joão",
+      "proposta": "Sed blandit nunc ac tellus facilisis, quis venenatis urna ornare. Fusce ullamcorper egestas leo eget pulvinar. In nec gravida nunc. Fusce in convallis ex, vitae finibus erat. Suspendisse mattis velit molestie felis pellentesque, at vulputate urna fringilla. Proin rutrum justo ut velit porta semper. In facilisis risus sit amet dictum vulputate. Morbi sodales neque lacus, eu efficitur tellus consequat eu. Donec sed consequat lorem, sed gravida nibh.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    },
+    {
+      "id": "6",
+      "name": "sayyid",
+      "proposta": "Sed blandit nunc ac tellus facilisis, quis venenatis urna ornare. Fusce ullamcorper egestas leo eget pulvinar. In nec gravida nunc. Fusce in convallis ex, vitae finibus erat. Suspendisse mattis velit molestie felis pellentesque, at vulputate urna fringilla. Proin rutrum justo ut velit porta semper. In facilisis risus sit amet dictum vulputate. Morbi sodales neque lacus, eu efficitur tellus consequat eu. Donec sed consequat lorem, sed gravida nibh.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    },
+    {
+      "id": "7",
+      "name": "rodrigo",
+      "proposta": "Sed blandit nunc ac tellus facilisis, quis venenatis urna ornare. Fusce ullamcorper egestas leo eget pulvinar. In nec gravida nunc. Fusce in convallis ex, vitae finibus erat. Suspendisse mattis velit molestie felis pellentesque, at vulputate urna fringilla. Proin rutrum justo ut velit porta semper. In facilisis risus sit amet dictum vulputate. Morbi sodales neque lacus, eu efficitur tellus consequat eu. Donec sed consequat lorem, sed gravida nibh.",
+      "foto": "https://api.iconify.design/grommet-icons:instagram.svg"
+    }
+  ]
+}
