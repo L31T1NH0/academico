@@ -4,15 +4,15 @@ import data from "../assets/base/data.json"
 function App() {
   return (
     <div className="container mx-12 max-sm:mx-6 my-10">
-      <img
-        className="mb-10"
-        width={56}
-        height={56}
-        src={data.icon}
-      />
+        <img
+          className="mb-10"
+          width={56}
+          height={56}
+          src={data.icon}
+        />
       <div className="max-w-xl mb-4">
         <h1 className="text-4xl font-black mb-4 text-emerald-500">
-          A MELHOR CHAPA DO
+          ECOA MELHOR CHAPA DO
         </h1>
         <span className="text-green-500 text-4xl">COLÉGIO ACADÊMICO!</span>
       </div>
