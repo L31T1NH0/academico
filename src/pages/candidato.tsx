@@ -15,19 +15,43 @@ const Candidato: React.FC = () => {
     (candidato: Candidato) => candidato.name === name
   );
 
-  if (!candidato) {
-    return <h1>Candidato não encontrado.</h1>;
-  }
+  const propostaArray = candidato?.proposta.split(".");
+  const isTitulo = (part: string): boolean => {
+    return /^\s*:\w+:\s*$/.test(part);
+  };
 
   return (
-    <div className="my-16 mx-4 max-w-max max-h-48">
-      <img
-        src={candidato.foto}
-        alt={candidato.name}
-        className="w-72 h-72 rounded mb-4 mx-auto"
-      />
-      <h1 className="text-4xl font-bold text-center mb-4">{candidato.name}</h1>
-      <p className="text-gray-600 text-center">{candidato.proposta}</p>
+    <div className="mx-4 my-16">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+        <div className="text-center sm:text-left">
+          <img
+            src={candidato?.foto}
+            alt={candidato?.name}
+            className="w-48 h-48 rounded-full mx-auto mb-4"
+          />
+          <h2 className="text-2xl font-bold text-gray-800 flex justify-center">
+            {candidato?.name}
+          </h2>
+        </div>
+        <div>
+          {propostaArray?.map((part, index) => {
+            const parts = part.split(":");
+            return parts.length > 1 ? (
+              <h3
+                key={index}
+                className="text-xl font-bold text-gray-800 mt-8 mb-4"
+              >
+                {parts[1]}
+              </h3>
+            ) : (
+              <p key={index} className="text-gray-600 mb-4">
+                {part.trim() + "."}
+                <br />
+              </p>
+            );
+          })}
+        </div>
+      </div>
     </div>
   );
 };
