@@ -16,9 +16,6 @@ const Candidato: React.FC = () => {
   );
 
   const propostaArray = candidato?.proposta.split(".");
-  const isTitulo = (part: string): boolean => {
-    return /^\s*:\w+:\s*$/.test(part);
-  };
 
   return (
     <div className="mx-4 my-16">
@@ -27,9 +24,9 @@ const Candidato: React.FC = () => {
           <img
             src={candidato?.foto}
             alt={candidato?.name}
-            className="w-48 h-48 rounded-full mx-auto mb-4"
+            className="w-48 h-48 max-sm:w-32 max-sm:h-32 rounded-full mx-auto mb-4 bg-zinc-100 shadow-inner"
           />
-          <h2 className="text-2xl font-bold text-gray-800 flex justify-center">
+          <h2 className="text-2xl max-sm:text-xl font-bold text-gray-950 flex justify-center">
             {candidato?.name}
           </h2>
         </div>
@@ -39,12 +36,12 @@ const Candidato: React.FC = () => {
             return parts.length > 1 ? (
               <h3
                 key={index}
-                className="text-xl font-bold text-gray-800 mt-8 mb-4"
+                className="text-xl max-sm:text-xs font-bold text-zinc-950 mb-4 flex justify-center"
               >
                 {parts[1]}
               </h3>
             ) : (
-              <p key={index} className="text-gray-600 mb-4">
+              <p key={index} className="text-zinc-800 mb-4 max-sm:text-xs">
                 {part.trim() + "."}
                 <br />
               </p>

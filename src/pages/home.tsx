@@ -12,7 +12,7 @@ function App() {
         />
       <div className="max-w-xl mb-4">
         <h1 className="text-4xl font-black mb-4 text-emerald-500">
-          ECOA MELHOR CHAPA DO
+          A MELHOR CHAPA DO
         </h1>
         <span className="text-green-500 text-4xl">COLÉGIO ACADÊMICO!</span>
       </div>
