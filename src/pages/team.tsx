@@ -22,13 +22,13 @@ const Candidatos: React.FC = () => {
                 alt={candidato.name}
                 width={36}
                 height={36}
-                className="w-32 h-32 rounded-l  md:mr-4 shadow-inner"
+                className="w-32 h-32 max-sm:w-24 max-sm:h-24 rounded-l md:mr-4 shadow-inner"
               />
-              <div className="flex flex-col justify-center  max-sm:mx-4">
-                <h3 className="text-xl font-bold text-zinc-950 mb-2">
+              <div className="flex flex-col justify-center max-sm:mx-4">
+                <h3 className="text-xl font-bold text-zinc-950 ">
                   {candidato.name}
                 </h3>
-                <p className="text-zinc-800 line-clamp-4 break-words whitespace-pre-wrap">
+                <p className="text-zinc-800 line-clamp-3 break-words whitespace-pre-wrap mb-0">
                   {candidato.preview}
                 </p>
               </div>
