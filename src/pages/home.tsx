@@ -22,7 +22,7 @@ function App() {
         propostas. Participe do processo de escolha dos representantes!
       </p>
       <Link to="/team">
-        <button className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold p-2 px-4 rounded mt-12">
+        <button className="bg-emerald-500 hover:bg-emerald-600 text-white font-bold p-2 px-4 rounded mt-12">
           ESCOLHA!
         </button>
       </Link>
