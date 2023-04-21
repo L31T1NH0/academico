@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
-import data from "../assets/base/data.json"
+import data from "../assets/base/data.json";
+import yaml from "js-yaml";
 
 function App() {
   return (
     <div className="container mx-12 max-sm:mx-6 my-10">
-        <img
-          className="mb-10"
-          width={56}
-          height={56}
-          src={data.icon}
-          loading="lazy"
-        />
+      <img
+        className="mb-10"
+        width={56}
+        height={56}
+        src={data.icon}
+        loading="lazy"
+      />
       <div className="max-w-xl mb-4">
         <h1 className="text-4xl font-black mb-4 text-emerald-500">
           A MELHOR CHAPA DO
