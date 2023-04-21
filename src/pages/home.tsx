@@ -9,6 +9,7 @@ function App() {
           width={56}
           height={56}
           src={data.icon}
+          loading="lazy"
         />
       <div className="max-w-xl mb-4">
         <h1 className="text-4xl font-black mb-4 text-emerald-500">
