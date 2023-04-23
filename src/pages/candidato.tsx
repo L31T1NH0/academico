@@ -3,22 +3,24 @@ import { useParams } from "react-router-dom";
 import candidatos from "../assets/base/data.json";
 
 interface Candidato {
-  id: string;
-  name: string;
-  proposta: string;
+  name?: string | null;
   foto: string;
+  preview?: string;
+  propostas: {
+    titulo: string;
+    regulamentos: string[];
+  }[];
 }
 
 const Candidato: React.FC = () => {
   const { name } = useParams<{ name: string }>();
-  const candidato = candidatos.CandidatosG.find(
-    (candidato: Candidato) => candidato.name === name
+  const candidato = candidatos.CandidatosECOA.find(
+    candidato => candidato.name === name
   );
-
-  const propostaArray = candidato?.proposta.split(".");
+  const candidatoPropostas = candidato?.propostas ?? [];
 
   return (
-    <div className="mx-4 my-16">
+    <div className="mx-4 my-12">
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
         <div className="text-center sm:text-left">
           <img
@@ -26,27 +28,26 @@ const Candidato: React.FC = () => {
             alt={candidato?.name}
             className="w-48 h-48 max-sm:w-32 max-sm:h-32 rounded-full mx-auto mb-4 bg-zinc-100 shadow-inner"
           />
-          <h2 className="text-2xl max-sm:text-xl font-bold text-gray-950 flex justify-center">
+          <h2 className="text-2xl max-sm:text-xl font-bold text-zinc-950 flex justify-center">
             {candidato?.name}
           </h2>
+          <p className="text-zinc-950 mt-4 max-w-md flex mx-auto max-sm:text-xs">
+            {candidato?.preview}
+          </p>
         </div>
         <div>
-          {propostaArray?.map((part, index) => {
-            const parts = part.split(":");
-            return parts.length > 1 ? (
-              <h3
-                key={index}
-                className="text-xl max-sm:text-xs font-bold text-zinc-950 mb-4 flex justify-center"
-              >
-                {parts[1]}
+          {candidatoPropostas.map((proposta, index) => (
+            <div key={index} className="mb-4">
+              <h3 className="text-xl max-sm:text-xs font-bold text-zinc-950 mb-2">
+                {proposta.titulo}
               </h3>
-            ) : (
-              <p key={index} className="text-zinc-800 mb-4 max-sm:text-xs">
-                {part.trim() + "."}
-                <br />
-              </p>
-            );
-          })}
+              {proposta.regulamentos?.map((reg, i) => (
+                <p key={i} className="text-zinc-950 mb-2 max-sm:text-xs">
+                  {reg}
+                </p>
+              ))}
+            </div>
+          ))}
         </div>
       </div>
     </div>
