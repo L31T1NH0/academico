@@ -5,27 +5,28 @@ function App() {
   return (
     <div className="container mx-12 max-sm:mx-6 my-12">
       <img
-        className="mb-4"
+        className="mb-6"
         width={56}
         height={56}
+        alt="icon"
         src={data.icon}
-        loading="lazy"
       />
-      <div className="max-w-xl mb-4">
-        <h1 className="text-4xl font-black mb-4 text-emerald-500">
+      <div className="max-w-xl mb-2">
+        <h1 className="text-4xl font-black text-emerald-500">
           A MELHOR CHAPA DO
         </h1>
-        <span className="text-green-500 text-4xl">
-          COLÉGIO ACADÊMICO!
-        </span>
+        <span className="text-green-500 text-4xl">COLÉGIO ACADÊMICO!</span>
       </div>
-      <p className="text-lg max-w-2xl text-black max-sm:mr-12 font-inter mb-4">
-        Seja ativo na vida acadêmica! Vote de forma democrática nas eleições do
-        grêmio estudantil, escolhendo candidatos comprometidos com suas
-        propostas. Participe do processo de escolha dos representantes!
+      <p className="text-lg max-w-3xl text-zinc-950 max-sm:mr-12 font-inter mb-4">
+        Seja Ativo na vida acadêmica! Vote nas eleições do grêmio, escolhendo o
+        candidato comprometido! aproveite as oportunidades da nossa chapa.
+        Oferecemos atividades de interesse, estimulando habilidades e interação
+        social. Valorizamos a participação dos alunos e sua colaboração.
+        Participe do processo de escolha dos representantes e aproveite nossa
+        oportunidades.
       </p>
       <Link to="/team">
-        <button className="bg-emerald-500 hover:bg-emerald-600 text-white transition-colors font-bold p-2 px-4 rounded">
+        <button className="bg-emerald-500 hover:bg-emerald-600 font-inter text-white transition-colors font-bold p-2 px-4 rounded">
           ESCOLHA!
         </button>
       </Link>

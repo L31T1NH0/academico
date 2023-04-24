@@ -4,47 +4,85 @@
     {
       "name": "Arthur",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920561/ECOA/PHOTO/Arthur_mdcvbk.jpg",
-      "preview": "",
+      "preview": "100% focado promover um ambiente escolar harmonioso e inclusivo, é essencial garantir um espaço onde cada indivíduo possa expressar sua opinião sem receio de ser julgado. Para isso, é necessário criar um ambiente organizado e acolhedor, onde todos se sintam respeitados e valorizados. A participação ativa de cada aluno é crucial para construir uma comunidade escolar forte e colaborativa.",
       "propostas": [
         {
-          "titulo": null,
-          "regulamentos": [null]
+          "titulo": "Clubes de esportes, jogos, dança etc...:",
+          "regulamentos": [
+            "1 - Criar clubes para atividades extracurriculares, tais como esportes, jogos, dança, teatro, entre outros. Os clubes esportivos podem incluir esportes como futebol, basquete, vôlei, entre outros. Os clubes de jogos podem oferecer opções como xadrez, damas, RPG, videogames, entre outros. O objetivo é proporcionar aos alunos uma oportunidade de se engajar em atividades que sejam de seu interesse e fomentar a interação social.",
+            "2 - Promover competições e eventos para os clubes, como torneios esportivos, campeonatos de jogos, apresentações de dança e teatro, entre outros. A realização de competições e eventos ajuda a estimular o espírito de equipe, o desenvolvimento de habilidades específicas e a criatividade.",
+            "3 - Incentivar a participação dos alunos na organização dos clubes e eventos, como membros de comissões organizadoras, árbitros, monitores, entre outros. Essa iniciativa promove o desenvolvimento de habilidades de liderança, organização e trabalho em equipe."
+          ]
+        },
+        {
+          "titulo": "Jornal acadêmico:",
+          "regulamentos": [
+            "1 - Jornal periódico dirigido pelos alunos: A escola pode estimular a produção de um jornal periódico, em que os próprios alunos sejam os responsáveis pela criação e edição do conteúdo. envolver alunos de diferentes áreas, como jornalismo, design gráfico, literatura, entre outras, e permitir que eles desenvolvam habilidades como pesquisa, redação, edição de imagem, entre outras. O jornal pode abordar temas relevantes para a comunidade escolar, como eventos, atividades, projetos e notícias relacionadas à escola. o jornal deve ser distribuído gratuitamente para toda a comunidade escolar, permitindo que os alunos compartilhem suas ideias e perspectivas com os demais colegas e professores.",
+            "2 - Formação de uma equipe editorial: Os alunos interessados em participar da criação e produção do jornal devem se reunir e formar uma equipe editorial. A equipe será responsável por escolher as pautas, realizar entrevistas, escrever as matérias, editar as imagens e diagramar o jornal.",
+            "3 - Definição de temas e pautas: A equipe editorial deve definir os temas e pautas que serão abordados no jornal. As pautas podem ser relacionadas a eventos da escola, atividades extracurriculares, entrevistas com professores e alunos, reportagens sobre temas da atualidade, entre outros assuntos.",
+            "4 - Cronograma flexível para o jornal: O jornal será produzido e editado pelos alunos e terá um cronograma flexível que permita a adaptação do conteúdo à disponibilidade de tempo e recursos. Os alunos poderão se organizar em grupos para a produção de cada edição e terão autonomia para definir o tema, as matérias e os prazos de entrega. O objetivo é estimular a criatividade, a colaboração e a responsabilidade dos alunos na produção de conteúdos jornalísticos."
+          ]
+        },
+        {
+          "titulo": "Verificação de Necessidade da Escola e das Turmas:",
+          "regulamentos": [
+            "1 - Identificar as necessidades da escola e das turmas a fim de promover melhorias e garantir um ambiente de aprendizado adequado.",
+            "2 - Realizar reuniões com professores, coordenadores e diretores para discutir as necessidades da escola e das turmas e Realizar pesquisas com alunos e responsáveis para identificar suas necessidades e expectativas.",
+            "3 - Avaliar o desempenho escolar e comportamental dos alunos para identificar possíveis demandas, Analisar relatórios e registros de ocorrências na escola para identificar problemas recorrentes e Verificar a disponibilidade de recursos e materiais didáticos para as turmas.",
+            "4 - Elaborar um plano de ação para atender às necessidades identificadas, Definir prioridades para as ações a serem tomadas, Comunicar as medidas a serem tomadas aos envolvidos e Estabelecer prazos para a implementação das medidas.",
+            "5 - Monitoramento e Avaliação: Monitorar a implementação das medidas tomadas, Avaliar os resultados das medidas tomadas e Realizar novas verificações periódicas para identificar novas necessidades e garantir a continuidade das melhorias."
+          ]
+        },
+        {
+          "titulo": "Prateleiras:",
+          "regulamentos": [
+            "1 - Prateleiras para organização: A instalação de prateleiras pode ser uma ótima opção para melhorar a organização e o aproveitamento do espaço nas salas de aula.",
+            "2 - Prateleiras no banheiro: A instalação de prateleiras no banheiro pode ajudar a organizar os itens de higiene pessoal e manter o ambiente limpo e organizado."
+          ]
         }
       ]
     },
     {
       "name": "Domenyk",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920322/ECOA/PHOTO/Domenyk_mtxusf.jpg",
-      "preview": "Empenhado Com o objetivo de promover um ambiente escolar inclusivo e valorizar a participação dos alunos na escola, é fundamental assegurar a qualidade do ambiente educacional. É preciso fornecer aos alunos voz e visibilidade para que se sintam representados e ouvidos. Dessa forma, todos poderão desfrutar de uma escola acolhedora e inclusiva, onde a participação de todos é valorizada.",
+      "preview": "Empenhado Com o objetivo de melhorar o ambiente escolar inclusivo e valorizar a participação dos alunos na escola, é fundamental assegurar a qualidade do ambiente educacional. É preciso fornecer aos alunos voz e visibilidade para que se sintam representados e ouvidos. Dessa forma, todos poderão desfrutar de uma escola acolhedora e inclusiva, onde a participação de todos é FUNDAMENTAL!",
       "propostas": [
         {
-          "titulo": "Biblioteca da Escola",
+          "titulo": "Biblioteca da Escola:",
           "regulamentos": [
-            "1. Proposta de livro pra ler e ter na livraria: Os alunos terão a oportunidade de recomendar livros que gostariam de ter disponíveis na livraria da escola. A cada mês, será feito um levantamento dos livros recomendados pelos alunos e a escola buscará adquirir alguns desses livros para disponibilizá-los gratuitamente na biblioteca. Essa estratégia busca estimular o interesse dos alunos pela leitura e oferecer uma maior variedade de títulos que atendam às suas preferências e necessidades.",
-            "2. Um livro com as melhores redações com ilustrações: A cada bimestre, será promovido um concurso de redações e ilustrações entre os alunos da escola. Os alunos serão incentivados a escrever suas próprias histórias, que poderão ser ilustradas por eles mesmos ou por outros alunos da escola. Ao final do concurso, as melhores histórias e ilustrações serão selecionadas e compiladas em um livro que será disponibilizado na biblioteca da escola. Além disso, as redações e ilustrações selecionadas também receberão uma nota de reconhecimento pela sua qualidade. A proposta busca valorizar a criatividade dos alunos e incentivar a produção de conteúdos literários e artísticos.",
-            "3. Nota para redação feita de cada livro: A biblioteca da escola terá uma seleção de livros que abrangem diversas disciplinas escolares. Os alunos poderão emprestar esses livros para leitura e, se desejarem, poderão produzir redações, resumos ou análises críticas sobre o conteúdo abordado na obra. A cada trabalho produzido, os alunos receberão uma nota que será adicionada à sua nota geral na disciplina correspondente. A proposta busca incentivar os alunos a explorar diferentes áreas de conhecimento, além de estimular a escrita e a reflexão crítica sobre os temas abordados nos livros.",
-            "4. Ranking de leitura: A escola criará um ranking de leitura para acompanhar a participação dos alunos na leitura do livro. Os alunos que lerem e fizerem resenhas sobre o livro poderão ter sua participação reconhecida em um quadro de honra na biblioteca da escola ou em uma página no site da escola. O objetivo é incentivar a leitura e criar uma competição saudável entre os alunos.",
-            "5. Livro do mês: A cada mês, a biblioteca da escola selecionará um livro para ser destacado como o 'livro do mês'. Essa seleção será feita em conjunto com professores e alunos, que poderão sugerir obras que gostariam de ver na biblioteca. O objetivo é promover a leitura de diferentes gêneros literários e estimular a curiosidade dos alunos em relação a novas obras. Durante o período em que o livro estiver em destaque, a biblioteca poderá promover atividades relacionadas à obra."
+            "1 - Proposta de livro pra ler e ter na biblioteca: Os alunos terão a oportunidade de recomendar livros que gostariam de ter disponíveis na biblioteca da escola. A cada mês, será feito um levantamento dos livros recomendados pelos alunos e a escola buscará adquirir alguns desses livros para disponibilizá-los gratuitamente na biblioteca. Essa estratégia busca estimular o interesse dos alunos pela leitura e oferecer uma maior variedade de títulos que atendam às suas preferências e necessidades.",
+            "2 - Um livro com as melhores redações com ilustrações: A cada bimestre, será promovido um concurso de redações e ilustrações entre os alunos da escola. Os alunos serão incentivados a escrever suas próprias histórias, que poderão ser ilustradas por eles mesmos ou por outros alunos da escola. Ao final do concurso, as melhores histórias e ilustrações serão selecionadas e compiladas em um livro que será disponibilizado na biblioteca da escola. Além disso, as redações e ilustrações selecionadas também receberão uma nota de reconhecimento pela sua qualidade. A proposta busca valorizar a criatividade dos alunos e incentivar a produção de conteúdos literários e artísticos.",
+            "3 - Nota para redação feita de cada livro: A biblioteca da escola terá uma seleção de livros que abrangem diversas disciplinas escolares. Os alunos poderão emprestar esses livros para leitura e, se desejarem, poderão produzir redações, resumos ou análises críticas sobre o conteúdo abordado na obra. A cada trabalho produzido, os alunos receberão uma nota que será adicionada à sua nota geral na disciplina correspondente. A proposta busca incentivar os alunos a explorar diferentes áreas de conhecimento, além de estimular a escrita e a reflexão crítica sobre os temas abordados nos livros.",
+            "4 - Ranking de leitura: A escola criará um ranking de leitura para acompanhar a participação dos alunos na leitura do livro. Os alunos que lerem e fizerem resenhas sobre o livro poderão ter sua participação reconhecida em um quadro de honra na biblioteca da escola ou em uma página no site da escola. O objetivo é incentivar a leitura e criar uma competição saudável entre os alunos.",
+            "5 - Livro do mês: A cada mês, a biblioteca da escola selecionará um livro para ser destacado como o 'livro do mês'. Essa seleção será feita em conjunto com professores e alunos, que poderão sugerir obras que gostariam de ver na biblioteca. O objetivo é promover a leitura de diferentes gêneros literários e estimular a curiosidade dos alunos em relação a novas obras. Durante o período em que o livro estiver em destaque, a biblioteca poderá promover atividades relacionadas à obra."
           ]
         },
         {
-          "titulo": "Organização e Limpeza Escolar",
+          "titulo": "Facilidade ao acesso de informação:",
           "regulamentos": [
-            "1. É importante que todos colaborem para manter a escola limpa e organizada, criando um ambiente saudável e agradável para todos.",
-            "2. Para isso, a escola disponibilizará lixeiras em pontos estratégicos e garantirá que sejam utilizadas para o descarte adequado de resíduos, sejam eles orgânicos ou recicláveis.",
-            "3. É obrigatório o uso das lixeiras e proibido jogar lixo no chão, em corredores, pátios ou qualquer outro local que não seja a lixeira correspondente.",
-            "4. A escola realizará inspeções regulares para verificar se as lixeiras estão em número suficiente, se estão sendo utilizadas corretamente e se há necessidade de reposição ou manutenção.",
-            "5. Os alunos devem manter o banheiro limpo e organizado, tendo em mente a importância da higiene pessoal e coletiva. Caso um banheiro esteja sujo ou danificado, é obrigação dos usuários alertar a equipe de limpeza.",
-            "6. A escola manterá um serviço de limpeza eficiente e efetivo, a fim de garantir a manutenção da limpeza e organização da escola.",
-            "7. Serão promovidas campanhas regulares de conscientização sobre a importância da limpeza e organização escolar, incentivando os alunos e funcionários a cooperarem nesse processo."
+            "1 - A escola deve garantir a facilidade de acesso à informação para alunos, pais e funcionários. Para isso, todas as informações relevantes devem ser comunicadas de forma clara e acessível, utilizando ferramentas como murais de avisos, site da escola, grupos de WhatsApp e outras plataformas digitais.",
+            "2 - Para auxiliar na disseminação das informações, a escola poderá designar cargos de 'Representantes de comunicação' para os alunos. Esses representantes serão eleitos pelos próprios alunos através de votação e deverão ser pessoas responsáveis e comprometidas com o papel de garantir que todos estejam informados sobre as atividades escolares e eventos.",
+            "3 - Os representantes de comunicação deverão garantir que todas as informações importantes sejam atualizadas diariamente nas plataformas de comunicação escolar, incluindo comunicados da direção, cronograma de eventos, horários de aulas, entre outras informações relevantes. Essa medida visa garantir a transparência e a democracia na escola, além de facilitar o acesso à informação para todos os envolvidos."
           ]
         },
         {
-          "titulo": "Facilidade ao acesso de informação",
+          "titulo": "Organização e Limpeza Escolar:",
           "regulamentos": [
-            "1. A escola deve garantir a facilidade de acesso à informação para alunos, pais e funcionários. Para isso, todas as informações relevantes devem ser comunicadas de forma clara e acessível, utilizando ferramentas como murais de avisos, site da escola, grupos de WhatsApp e outras plataformas digitais.",
-            "2. Para auxiliar na disseminação das informações, a escola poderá designar cargos de 'Representantes de comunicação' para os alunos. Esses representantes serão eleitos pelos próprios alunos através de votação e deverão ser pessoas responsáveis e comprometidas com o papel de garantir que todos estejam informados sobre as atividades escolares e eventos.",
-            "3. Os representantes de comunicação deverão garantir que todas as informações importantes sejam atualizadas diariamente nas plataformas de comunicação escolar, incluindo comunicados da direção, cronograma de eventos, horários de aulas, entre outras informações relevantes. Essa medida visa garantir a transparência e a democracia na escola, além de facilitar o acesso à informação para todos os envolvidos."
+            "1 - É importante que todos colaborem para manter a escola limpa e organizada, criando um ambiente saudável e agradável para todos.",
+            "2 - Para isso, a escola disponibilizará lixeiras em pontos estratégicos e garantirá que sejam utilizadas para o descarte adequado de resíduos, sejam eles orgânicos ou recicláveis.",
+            "3 - É obrigatório o uso das lixeiras e proibido jogar lixo no chão, em corredores, pátios ou qualquer outro local que não seja a lixeira correspondente.",
+            "4 - A escola realizará inspeções regulares para verificar se as lixeiras estão em número suficiente, se estão sendo utilizadas corretamente e se há necessidade de reposição ou manutenção.",
+            "5 - Os alunos devem manter o banheiro limpo e organizado, tendo em mente a importância da higiene pessoal e coletiva. Caso um banheiro esteja sujo ou danificado, é obrigação dos usuários alertar a equipe de limpeza.",
+            "6 - A escola manterá um serviço de limpeza eficiente e efetivo, a fim de garantir a manutenção da limpeza e organização da escola.",
+            "7 - Serão promovidas campanhas regulares de conscientização sobre a importância da limpeza e organização escolar, incentivando os alunos e funcionários a cooperarem nesse processo."
+          ]
+        },
+        {
+          "titulo": "Verificação Mensal do Cumprimento de Propostas:",
+          "regulamentos": [
+            "1 - A verificação mensal do cumprimento de propostas será realizada regularmente a cada mês. O responsável pela verificação será designado pelo grêmio estudantil e será responsável por garantir que todas as propostas aprovadas estejam sendo cumpridas de forma adequada.",
+            "2 - O responsável pela verificação deverá realizar uma avaliação criteriosa de cada proposta aprovada, verificando se todas as metas e prazos estão sendo cumpridos. e o resultado da verificação deverá ser registrado e divulgado aos membros do grêmio estudantil, incluindo possíveis falhas no cumprimento das propostas.",
+            "3 - Caso haja alguma falha no cumprimento das propostas, o responsável pela verificação deverá comunicar imediatamente aos responsáveis pela execução das propostas para que sejam tomadas as medidas necessárias para corrigir as falhas. Se a falha persistir por mais de um mês, será considerada uma infração, que será avaliada e tratada pelo grêmio estudantil de acordo com as regras e procedimentos estabelecidos."
           ]
         }
       ]
@@ -52,78 +90,149 @@
     {
       "name": "Melo",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920301/ECOA/PHOTO/Melo_kob7c2.jpg",
-      "preview": "Comprometida em valorizar a participação dos alunos na escola e em promover um ambiente inclusivo para todos, é necessário garantir qualidade e higiene no ambiente escolar. Juntos, podemos construir uma escola acolhedora e inclusiva para todos, onde a participação de cada indivíduo é valorizada e respeitada.",
+      "preview": "Comprometida em valorizar a participação e bem estar dos alunos na escola e em promover um ambiente inclusivo, é necessário garantir qualidade e higiene no ambiente escolar. Juntos, podemos construir uma escola acolhedora e inclusiva, onde a participação de cada indivíduo é valorizada e respeitada.",
       "propostas": [
         {
-          "titulo": "bom dia",
+          "titulo": "Passeios Escolares:",
           "regulamentos": [
-            "ola",
-            "ola2"
+            "1 - Passeios por locais históricos: Organizar passeios por locais históricos da cidade. Os passeios podem incluir visitas a museus, monumentos, e locais apresentem relevância histórica e cultural. Essa estratégia busca incentivar o interesse dos alunos pela história e patrimônio cultural local, além de promover uma atividade educativa fora do ambiente escolar.",
+            "2 - Seleção de locais e roteiros: A escola pode contar com a participação dos próprios alunos para selecionar os locais e roteiros que serão visitados nos passeios históricos. Os alunos podem ser incentivados a fazer pesquisas sobre a história local. A escola pode elaborar roteiros que atendam às necessidades dos alunos.",
+            "3 - Registro fotográfico e produção textual: Durante os passeios, os alunos podem ser incentivados a produzir registros fotográficos e textuais sobre os locais visitados. Esses registros podem ser compilados em um material de divulgação sobre os passeios históricos, que pode ser disponibilizado na escola ou nas redes sociais. Além disso, os alunos podem produzir relatórios ou trabalhos escolares baseados nos passeios, o que ajuda a consolidar o aprendizado sobre história e cultura."
+          ]
+        },
+        {
+          "titulo": "Avaliação dos Professores:",
+          "regulamentos": [
+            "1 - Criação de uma comissão de avaliação; As Salas devem criar uma comissão formada por alunos, e professores, responsável por planejar, organizar e executar o processo de avaliação dos professores.",
+            "2 - Aplicação da avaliação; A avaliação deve ser aplicada ao final de cada semestre letivo, ou tempo julgado necessário! para que os alunos possam avaliar os professores com base em sua experiência durante o período.",
+            "1'1 - Definição dos critérios de avaliação; A comissão deve definir os critérios de avaliação que serão utilizados pelos alunos para avaliar os professores! Os critérios podem incluir, por exemplo, clareza na explicação, domínio do conteúdo, disponibilidade para tirar dúvidas e capacidade de motivar os alunos.",
+            "2'1 - Análise dos resultados; A comissão deve analisar os resultados da avaliação e elaborar um relatório, contendo as principais conclusões e recomendações para os professores."
+          ]
+        },
+        {
+          "titulo": "Concursos:",
+          "regulamentos": [
+            "1 - Concursos de desenhos, dança, música, teatro e outras atividades artísticas: A escola pode promover concursos para incentivar e reconhecer o talento artístico dos alunos em diversas áreas. Os concursos podem abranger várias modalidades, como desenhos, dança, música, teatro e outras atividades. Os alunos poderão apresentar seus trabalhos perante uma banca avaliadora, composta por professores e alunos. Os vencedores poderão ter seus trabalhos expostos na escola ou participar de eventos externos.",
+            "2 - Critérios claros de avaliação: É importante estabelecer critérios claros e objetivos de avaliação para garantir que o processo de seleção dos vencedores seja justo e imparcial. Os critérios devem ser divulgados com antecedência para que os alunos possam se preparar adequadamente e direcionar seus esforços.",
+            "3 - Premiações simbólicas: é importante que os vencedores recebam um reconhecimento por seu trabalho e dedicação. Certificados, medalhas, troféus podem ser formas de incentivar os alunos a se dedicarem e aprimorarem suas habilidades.",
+            "4 - Divulgação dos trabalhos: Para que os trabalhos dos alunos sejam valorizados e reconhecidos, é importante que a escola promova sua divulgação, por exemplo, por meio de exposições, apresentações em eventos culturais ou publicações em redes sociais. A divulgação não só incentiva os alunos a continuarem desenvolvendo suas habilidades, como também valoriza e enriquece a cultura da escola."
+          ]
+        },
+        {
+          "titulo": "Absorvente no banheiro feminino:",
+          "regulamentos": [
+            "1 - Disponibilização de absorventes no banheiro feminino; O projeto tem como objetivo disponibilizar absorventes no banheiro feminino da escola, garantindo que as alunas tenham acesso a esse item de higiene sempre que necessário.",
+            "2 - Distribuição gratuita de absorventes; Todos os absorventes fornecidos pela escola serão gratuitos! Isso permitirá que as alunas tenham acesso a essa opção de higiene, independentemente de sua situação financeira.",
+            "3 - Qualidade dos absorventes; A escola se compromete a fornecer absorventes de qualidade, que garantam a segurança e a saúde das alunas! Os absorventes devem ser de marcas reconhecidas e comprovadamente seguras."
+          ]
+        },
+        {
+          "titulo": "Som no Intervalo:",
+          "regulamentos": [
+            "1 - Liberar a caixa de som para que os alunos possam escolher, diante do dia de intervalo de cada Classe.",
+            "2 - É proibido tocar músicas que contenham conteúdo explícito em sua letra."
           ]
         }
       ]
     },
     {
-      "name": "Joao Vitor",
-      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920274/ECOA/PHOTO/JoaoVitor_n0kl8j.jpg",
-      "preview": "Representante de sala do Nono ano.",
+      "name": "Gustavo",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682295764/ECOA/PHOTO/Gustavo_wnfitn.jpg",
+      "preview": "Representante de Turma e Esportes do Sétimo ano.",
       "propostas": [
         {
-          "titulo": null,
-          "regulamentos": [null]
+          "titulo": "Representante das Atividades Esportivas e de Classes pela EKOA no Sétimo ano.",
+          "regulamentos": [
+            "Representação esportiva: Projetos esportivos da EKOA serão representados por mim na turma do sexto ano.",
+            "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "João Vitor",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920274/ECOA/PHOTO/JoaoVitor_n0kl8j.jpg",
+      "preview": "Representante de Turma e Esportes do Nono ano.",
+      "propostas": [
+        {
+          "titulo": "Representante das Atividades Esportivas e de Classes pela EKOA no nono ano.",
+          "regulamentos": [
+            "Representação esportiva: Projetos esportivos da EKOA serão representados por mim na turma do nono ano.",
+            "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
+            "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores.",
+            "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores.",
+            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano.",
+            "Biblioteca da Escola: Responsável por fazer a seleção dos livros recomendados para a biblioteca da escola."
+          ]
         }
       ]
     },
     {
       "name": "Lara Holanda",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920332/ECOA/PHOTO/LaraHolanda_pzulvt.jpg",
-      "preview": "",
+      "preview": "Representante de Turma do Sexto ano.",
       "propostas": [
         {
-          "titulo": null,
-          "regulamentos": null
-        }
-      ]
-    },
+          "titulo": "Representante de Classe pela EKOA no Sexto ano.",
+          "regulamentos": [
+            "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
+            "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores.",
+            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano."
 
-    {
-      "name": "Sayyid",
-      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682182742/ECOA/PHOTO/Sayyid_hctgis.jpg",
-      "preview": "",
-      "propostas": [
-        {
-          "titulo": null,
-          "regulamentos": null
+          ]
         }
       ]
     },
     {
       "name": "Lara Tavares",
-      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920595/ECOA/PHOTO/NonPhoto_uk5aox.png",
-      "preview": "",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920287/ECOA/PHOTO/LaraTavares_ottvfe.jpg",
+      "preview": "Representante de Turma do Sexto ano.",
       "propostas": [
         {
-          "titulo": null,
-          "regulamentos": null
+          "titulo": "Representante de Classe pela EKOA no Sexto ano.",
+          "regulamentos": [
+            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano.",
+            "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores.",
+            "Biblioteca da Escola: Responsável por fazer a seleção dos livros recomendados para a biblioteca da escola."
+
+          ]
         }
       ]
     },
-
+    {
+      "name": "Sayyid",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682182742/ECOA/PHOTO/Sayyid_hctgis.jpg",
+      "preview": "Representante de Turma do Sétimo ano.",
+      "propostas": [
+        {
+          "titulo": "Representante de Classe pela EKOA no Sétimo ano.",
+          "regulamentos": [
+            "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
+            "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores.",
+            "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores.",
+            "Biblioteca da Escola: Responsável por fazer a seleção dos livros recomendados para a biblioteca da escola."
+          ]
+        }
+      ]
+    },
     {
       "name": "Rodrigo",
-      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920595/ECOA/PHOTO/NonPhoto_uk5aox.png",
-      "preview": "",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681921843/ECOA/PHOTO/Rodrigo_z5g42i.jpg",
+      "preview": "Representante de Turma do Sétimo ano.",
       "propostas": [
         {
-          "titulo": null,
-          "regulamentos": null
+          "titulo": "Representante de Classe pela EKOA no Sétimo ano.",
+          "regulamentos": [
+            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sétimo ano.",
+            "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores."
+          ]
         }
       ]
     },
     {
-      "name": "Joao Lucas",
+      "name": "João Lucas",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920595/ECOA/PHOTO/NonPhoto_uk5aox.png",
-      "preview": "",
+      "preview": "Representante de Turma do Nono ano.",
       "propostas": [
         {
           "titulo": null,
