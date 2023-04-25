@@ -45,12 +45,12 @@ const Candidato: React.FC = () => {
             <h2 className="text-2xl max-sm:text-xl font-inter font-bold text-zinc-950 flex justify-center">
               {candidato?.name}
             </h2>
-            <button className="mx-auto flex justify-center">
+            <button className="mx-auto flex justify-center my-1">
               <a href={candidato?.WhatsApp}>
                 <img src={candidato?.whatsicon} width={24} height={24} />
               </a>
             </button>
-            <p className="text-zinc-950 mt-4 font-inter max-w-md flex justify-center mx-auto max-sm:text-xs">
+            <p className="text-zinc-950 font-inter max-w-md flex justify-center mx-auto max-sm:text-xs">
               {candidato?.preview}
             </p>
           </div>
