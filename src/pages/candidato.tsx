@@ -21,18 +21,24 @@ const Candidato: React.FC = () => {
 
   return (
     <div>
-      <Link className="cursor-default" to={"/team"}>
-        <button className="bg-zinc-200 hover:scale-105 hover:text-white hover:bg-emerald-300 transition-all rounded-sm w-10 h-10 mx-4 mt-4 relative">
-          🡐
-        </button>
-      </Link>
+      <button className="bg-zinc-300 hover:text-white hover:bg-green-300 transition-all rounded-lg p-2 hover:scale-105 mx-4 mt-4 relative">
+        <Link to={"/team"}>
+          <img
+            src="../src/assets/arrow-back-outline.svg"
+            width={20}
+            height={20}
+          />
+        </Link>
+      </button>
       <div className="mx-4 my-2">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
           <div className="text-center sm:text-left">
             <img
               src={candidato?.foto}
               alt={candidato?.name}
-              className="w-48 h-48 max-sm:w-32 max-sm:h-32 rounded-full mx-auto mb-4 bg-zinc-100 shadow-inner"
+              width={164}
+              height={164}
+              className="max-sm:w-32 max-sm:h-32 rounded-full mx-auto mb-4 bg-zinc-100 shadow-inner"
             />
             <h2 className="text-2xl max-sm:text-xl font-inter font-bold text-zinc-950 flex justify-center">
               {candidato?.name}
@@ -44,13 +50,14 @@ const Candidato: React.FC = () => {
           <div className="mb-4">
             {candidatoPropostas.map((proposta, index) => (
               <div key={index} className="mb-4">
-                <h3 className="text-xl max-sm:text-xs font-inter font-bold text-zinc-950 mb-2">
+                <h3 className="text-xl max-sm:text-xl font-inter font-bold text-zinc-950 mb-2">
                   {proposta.titulo}
                 </h3>
                 {proposta.regulamentos?.map((reg, i) => (
                   <p
                     key={i}
-                    className="text-zinc-950 mb-2 flex justify-center font-inter max-sm:text-xs">
+                    className="text-zinc-950 mb-2 flex justify-center font-inter max-sm:text-xs"
+                  >
                     {reg}
                   </p>
                 ))}
