@@ -6,6 +6,8 @@ interface Candidato {
   name?: string | null;
   foto: string;
   preview?: string;
+  whatsicon?: string | null;
+  WhatsApp?: string;
   propostas: {
     titulo: string;
     regulamentos: string[];
@@ -24,7 +26,7 @@ const Candidato: React.FC = () => {
       <button className="bg-zinc-300 hover:text-white hover:bg-green-300 transition-all rounded-lg p-2 hover:scale-105 mx-4 mt-4 relative">
         <Link to={"/team"}>
           <img
-            src="../src/assets/arrow-back-outline.svg"
+            src="https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682417916/ECOA/ICON/arrow-back-outline_yufo2u.png"
             width={20}
             height={20}
           />
@@ -43,6 +45,11 @@ const Candidato: React.FC = () => {
             <h2 className="text-2xl max-sm:text-xl font-inter font-bold text-zinc-950 flex justify-center">
               {candidato?.name}
             </h2>
+            <button className="mx-auto flex justify-center">
+              <a href={candidato?.WhatsApp}>
+                <img src={candidato?.whatsicon} width={24} height={24} />
+              </a>
+            </button>
             <p className="text-zinc-950 mt-4 font-inter max-w-md flex justify-center mx-auto max-sm:text-xs">
               {candidato?.preview}
             </p>

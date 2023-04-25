@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import candidatos from "../assets/base/data.json";
 
 interface Candidato {
-  foto? : string;
+  foto?: string;
   name: string;
   preview?: string;
 }
@@ -33,13 +33,14 @@ const Candidatos: React.FC = () => {
                   alt={candidato.name}
                   width={36}
                   height={36}
-                  className="w-32 h-32 max-sm:w-24 max-sm:h-24 rounded-l md:mr-4 shadow-inner"
+                  className="w-32 h-32 max-sm:w-24 max-sm:h-full rounded-l md:mr-4 shadow-inner"
                 />
                 <div className="flex-col grid justify-center max-sm:mx-4 sm:mx-2 lg:mx-0">
                   <a className="text-xl max-sm:text-xl font-semibold text-zinc-950">
                     {candidato.name}
                   </a>
-                  <p className="text-zinc-950 max-sm:line-clamp-4 lg:line-clamp-4 break-words mr-2 max-sm:text-xs sm:text-xs lg:text-base">
+
+                  <p className="text-zinc-950 max-sm:line-clamp-3  lg:line-clamp-4 break-words mr-2 max-sm:text-sm sm:text-xs lg:text-base">
                     {candidato.preview}
                   </p>
                 </div>

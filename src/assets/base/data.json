@@ -5,13 +5,28 @@
       "name": "Arthur",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920561/ECOA/PHOTO/Arthur_mdcvbk.jpg",
       "preview": "100% focado promover um ambiente escolar harmonioso e inclusivo, é essencial garantir um espaço onde cada indivíduo possa expressar sua opinião sem receio de ser julgado. Para isso, é necessário criar um ambiente organizado e acolhedor, onde todos se sintam respeitados e valorizados. A participação ativa de cada aluno é crucial para construir uma comunidade escolar forte e colaborativa.",
+      "WhatsApp": "https://wa.me/558586821572",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
-          "titulo": "Clubes de esportes, jogos, dança etc...:",
+          "titulo": "Esportes:",
           "regulamentos": [
-            "1 - Criar clubes para atividades extracurriculares, tais como esportes, jogos, dança, teatro, entre outros. Os clubes esportivos podem incluir esportes como futebol, basquete, vôlei, entre outros. Os clubes de jogos podem oferecer opções como xadrez, damas, RPG, videogames, entre outros. O objetivo é proporcionar aos alunos uma oportunidade de se engajar em atividades que sejam de seu interesse e fomentar a interação social.",
-            "2 - Promover competições e eventos para os clubes, como torneios esportivos, campeonatos de jogos, apresentações de dança e teatro, entre outros. A realização de competições e eventos ajuda a estimular o espírito de equipe, o desenvolvimento de habilidades específicas e a criatividade.",
+            "1 - Incentivo de Esportes na Escola: A proposta de incentivo de esportes na escola tem como objetivo principal promover uma cultura esportiva saudável e estimular os alunos a se envolverem em atividades físicas. Para isso, é importante que a escola ofereça um maior incentivo aos alunos para a pratica de esportes e atividades físicas que atendam às diferentes habilidades e interesses dos alunos. É possíve; apresentar os esportes e estimular a prática, além de realizar atividades durante o horário de aula, como aulas de educação física e torneios.",
+            "2 - Verificar materiais esportivos na escola: A verificação dos materiais esportivos na escola é importante para garantir que os alunos possam praticar esportes com segurança, conforto e qualidade. É necessário avaliar a condição dos materiais, como bolas, redes, entre outros. Caso necessário, é importante investir em novos materiais que, em grande parte, são baratos, ou realizar manutenção nos que já existem."
+          ]
+        },
+        {
+          "titulo": "Clubes de esportes, jogos, etc...:",
+          "regulamentos": [
+            "1 - Criar clubes para atividades extracurriculares, tais como esportes, jogos, entre outros. Os clubes esportivos podem incluir esportes como futebol, basquete, vôlei, e mais. Os clubes de jogos podem oferecer opções como xadrez, damas, RPG, videogames, entre outros. O objetivo é proporcionar aos alunos uma oportunidade de se engajar em atividades que sejam de seu interesse e fomentar a interação social.",
+            "2 - Promover competições e eventos para os clubes, como torneios esportivos, campeonatos de jogos, apresentações, etc... A realização de competições e eventos ajuda a estimular o espírito de equipe, o desenvolvimento de habilidades específicas e a criatividade.",
             "3 - Incentivar a participação dos alunos na organização dos clubes e eventos, como membros de comissões organizadoras, árbitros, monitores, entre outros. Essa iniciativa promove o desenvolvimento de habilidades de liderança, organização e trabalho em equipe."
+          ]
+        },
+        {
+          "titulo": "Taxas escolares:",
+          "regulamentos": [
+            "1 - Realizar uma revisão dos preços dos produtos vendidos na cantina escolar, levando em consideração o custo, despesas operacionais e a margem de lucro desejada. Com base nessa revisão, fazer ajustes nos preços dos produtos, garantindo que sejam justos e acessíveis para os alunos, mas ainda assim gerem receita suficiente para manter a operação da cantina e fornecer produtos de qualidade."
           ]
         },
         {
@@ -46,6 +61,8 @@
       "name": "Domenyk",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920322/ECOA/PHOTO/Domenyk_mtxusf.jpg",
       "preview": "Empenhado Com o objetivo de melhorar o ambiente escolar inclusivo e valorizar a participação dos alunos na escola, é fundamental assegurar a qualidade do ambiente educacional. É preciso fornecer aos alunos voz e visibilidade para que se sintam representados e ouvidos. Dessa forma, todos poderão desfrutar de uma escola acolhedora e inclusiva, onde a participação de todos é FUNDAMENTAL!",
+      "WhatsApp": "https://wa.me/558597307974",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Biblioteca da Escola:",
@@ -58,11 +75,26 @@
           ]
         },
         {
+          "titulo": "Aula interativa:",
+          "regulamentos": [
+            "1 - Ferramentas de ensino interativo: As ferramentas de ensino interativo são fundamentais para tornar a aula mais dinâmica e interessante para os alunos. Atualmente, existem diversas opções, como jogos educativos, entre outros. Dessa forma, a aula se torna mais envolvente e atraente para os estudantes.",
+            "2 - Participação ativa dos alunos: Na aula interativa, os alunos são incentivados a participar ativamente, seja por meio de perguntas, respostas, discussões em grupo ou atividades práticas. Isso permite que os alunos sejam mais engajados na aula e retenham melhor o conteúdo aprendido.",
+            "3 - Variedade de estratégias de ensino: A aula interativa deve ser diversificada e oferecer uma variedade de estratégias de ensino para atender aos diferentes estilos de aprendizado dos alunos. Isso pode incluir trabalhos em grupo, debates, jogos educativos, apresentações, entre outras atividades. A variedade de estratégias de ensino mantém os alunos engajados e ajuda a reforçar o conteúdo ensinado."
+          ]
+        },
+        {
           "titulo": "Facilidade ao acesso de informação:",
           "regulamentos": [
             "1 - A escola deve garantir a facilidade de acesso à informação para alunos, pais e funcionários. Para isso, todas as informações relevantes devem ser comunicadas de forma clara e acessível, utilizando ferramentas como murais de avisos, site da escola, grupos de WhatsApp e outras plataformas digitais.",
             "2 - Para auxiliar na disseminação das informações, a escola poderá designar cargos de 'Representantes de comunicação' para os alunos. Esses representantes serão eleitos pelos próprios alunos através de votação e deverão ser pessoas responsáveis e comprometidas com o papel de garantir que todos estejam informados sobre as atividades escolares e eventos.",
             "3 - Os representantes de comunicação deverão garantir que todas as informações importantes sejam atualizadas diariamente nas plataformas de comunicação escolar, incluindo comunicados da direção, cronograma de eventos, horários de aulas, entre outras informações relevantes. Essa medida visa garantir a transparência e a democracia na escola, além de facilitar o acesso à informação para todos os envolvidos."
+          ]
+        },
+        {
+          "titulo": "Mobiliario Escolar",
+          "regulamentos": [
+            "1 - Investir em cadeiras: Enfrentamos problemas com cadeiras antigas e desgastadas que podem prejudicar a postura dos alunos e até causar desconforto ou machucados durante as aulas. Uma proposta é investir em cadeiras novas de forma gradual, substituindo aos poucos as cadeiras antigas e desgastadas. Dessa forma, a escola pode oferecer um ambiente mais confortável e saudável para os alunos, sem precisar realizar um grande investimento de uma só vez.",
+            "2 - Cadeiras para pessoas canhotas: Muitas pessoas canhotas enfrentam dificuldades ao utilizar cadeiras e mesas projetadas para destros. Uma proposta é investir em cadeiras especiais para pessoas canhotas, com braços e suportes de escrita do lado esquerdo. Isso pode ajudar a melhorar o conforto e a postura dos alunos canhotos, permitindo que se concentrem melhor durante as aulas. "
           ]
         },
         {
@@ -75,6 +107,13 @@
             "5 - Os alunos devem manter o banheiro limpo e organizado, tendo em mente a importância da higiene pessoal e coletiva. Caso um banheiro esteja sujo ou danificado, é obrigação dos usuários alertar a equipe de limpeza.",
             "6 - A escola manterá um serviço de limpeza eficiente e efetivo, a fim de garantir a manutenção da limpeza e organização da escola.",
             "7 - Serão promovidas campanhas regulares de conscientização sobre a importância da limpeza e organização escolar, incentivando os alunos e funcionários a cooperarem nesse processo."
+          ]
+        },
+        {
+          "titulo": "Material de ensino do professor:",
+          "regulamentos": [
+            "1 - Fornecer pincéis marcadores de qualidade: Uma das propostas é garantir que as escolas forneçam pincéis marcadores de qualidade para os professores.  frequentemente a tinta acaba e atrapalha a continuação da aula.",
+            "2 - Necessidade: Os materiais necessários devem estar disponíveis rapidamente no caso de falta em sala de aula para evitar a interrupção da aula."
           ]
         },
         {
@@ -91,6 +130,8 @@
       "name": "Melo",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920301/ECOA/PHOTO/Melo_kob7c2.jpg",
       "preview": "Comprometida em valorizar a participação e bem estar dos alunos na escola e em promover um ambiente inclusivo, é necessário garantir qualidade e higiene no ambiente escolar. Juntos, podemos construir uma escola acolhedora e inclusiva, onde a participação de cada indivíduo é valorizada e respeitada.",
+      "WhatsApp": "https://wa.me/558586824526",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Passeios Escolares:",
@@ -98,15 +139,6 @@
             "1 - Passeios por locais históricos: Organizar passeios por locais históricos da cidade. Os passeios podem incluir visitas a museus, monumentos, e locais apresentem relevância histórica e cultural. Essa estratégia busca incentivar o interesse dos alunos pela história e patrimônio cultural local, além de promover uma atividade educativa fora do ambiente escolar.",
             "2 - Seleção de locais e roteiros: A escola pode contar com a participação dos próprios alunos para selecionar os locais e roteiros que serão visitados nos passeios históricos. Os alunos podem ser incentivados a fazer pesquisas sobre a história local. A escola pode elaborar roteiros que atendam às necessidades dos alunos.",
             "3 - Registro fotográfico e produção textual: Durante os passeios, os alunos podem ser incentivados a produzir registros fotográficos e textuais sobre os locais visitados. Esses registros podem ser compilados em um material de divulgação sobre os passeios históricos, que pode ser disponibilizado na escola ou nas redes sociais. Além disso, os alunos podem produzir relatórios ou trabalhos escolares baseados nos passeios, o que ajuda a consolidar o aprendizado sobre história e cultura."
-          ]
-        },
-        {
-          "titulo": "Avaliação dos Professores:",
-          "regulamentos": [
-            "1 - Criação de uma comissão de avaliação; As Salas devem criar uma comissão formada por alunos, e professores, responsável por planejar, organizar e executar o processo de avaliação dos professores.",
-            "2 - Aplicação da avaliação; A avaliação deve ser aplicada ao final de cada semestre letivo, ou tempo julgado necessário! para que os alunos possam avaliar os professores com base em sua experiência durante o período.",
-            "1'1 - Definição dos critérios de avaliação; A comissão deve definir os critérios de avaliação que serão utilizados pelos alunos para avaliar os professores! Os critérios podem incluir, por exemplo, clareza na explicação, domínio do conteúdo, disponibilidade para tirar dúvidas e capacidade de motivar os alunos.",
-            "2'1 - Análise dos resultados; A comissão deve analisar os resultados da avaliação e elaborar um relatório, contendo as principais conclusões e recomendações para os professores."
           ]
         },
         {
@@ -119,18 +151,35 @@
           ]
         },
         {
-          "titulo": "Absorvente no banheiro feminino:",
+          "titulo": "Apoio emocional",
           "regulamentos": [
-            "1 - Disponibilização de absorventes no banheiro feminino; O projeto tem como objetivo disponibilizar absorventes no banheiro feminino da escola, garantindo que as alunas tenham acesso a esse item de higiene sempre que necessário.",
-            "2 - Distribuição gratuita de absorventes; Todos os absorventes fornecidos pela escola serão gratuitos! Isso permitirá que as alunas tenham acesso a essa opção de higiene, independentemente de sua situação financeira.",
-            "3 - Qualidade dos absorventes; A escola se compromete a fornecer absorventes de qualidade, que garantam a segurança e a saúde das alunas! Os absorventes devem ser de marcas reconhecidas e comprovadamente seguras."
+            "1 - Treinar os professores para identificar sinais de problemas emocionais: Os professores podem ser treinados para identificar sinais de problemas emocionais nos alunos e encaminhá-los para o apoio necessário. Isso pode incluir sessões de treinamento sobre como lidar com situações de crise, como ajudar os alunos a lidar com ansiedade ou estresse, ou como detectar sinais de depressão ou outros problemas de saúde mental. Ao capacitar os professores, a escola pode ajudar a garantir que os alunos recebam o apoio emocional necessário para se desenvolverem plenamente.",
+            "2 - Terapia em grupo: Proporcionar aos alunos um espaço para conversar sobre suas emoções em grupo pode ser uma forma de oferecer apoio emocional."
           ]
         },
         {
           "titulo": "Som no Intervalo:",
           "regulamentos": [
             "1 - Liberar a caixa de som para que os alunos possam escolher, diante do dia de intervalo de cada Classe.",
-            "2 - É proibido tocar músicas que contenham conteúdo explícito em sua letra."
+            "2 - É proibido tocar músicas que contenham conteúdo explícito ou de duplo sentido em sua letra."
+          ]
+        },
+        {
+          "titulo": "Avaliação dos Professores:",
+          "regulamentos": [
+            "1 - Criação de uma comissão de avaliação; As Salas devem criar uma comissão formada por alunos, e professores, responsável por planejar, organizar e executar o processo de avaliação dos professores.",
+            "2 - Aplicação da avaliação; A avaliação deve ser aplicada ao final de cada semestre letivo, ou tempo julgado necessário! para que os alunos possam avaliar os professores com base em sua experiência durante o período.",
+            "1'1 - Definição dos critérios de avaliação; A comissão deve definir os critérios de avaliação que serão utilizados pelos alunos para avaliar os professores! Os critérios podem incluir, por exemplo, clareza na explicação, domínio do conteúdo, disponibilidade para tirar dúvidas e capacidade de motivar os alunos.",
+            "2'1 - Análise dos resultados; A comissão deve analisar os resultados da avaliação e elaborar um relatório, contendo as principais conclusões e recomendações para os professores."
+          ]
+        },
+
+        {
+          "titulo": "Absorvente no banheiro feminino:",
+          "regulamentos": [
+            "1 - Disponibilização de absorventes no banheiro feminino; O projeto tem como objetivo disponibilizar absorventes no banheiro feminino da escola, garantindo que as alunas tenham acesso a esse item de higiene sempre que necessário.",
+            "2 - Distribuição gratuita de absorventes; Todos os absorventes fornecidos pela escola serão gratuitos! Isso permitirá que as alunas tenham acesso a essa opção de higiene, independentemente de sua situação financeira.",
+            "3 - Qualidade dos absorventes; A escola se compromete a fornecer absorventes de qualidade, que garantam a segurança e a saúde das alunas! Os absorventes devem ser de marcas reconhecidas e comprovadamente seguras."
           ]
         }
       ]
@@ -139,6 +188,8 @@
       "name": "Gustavo",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682295764/ECOA/PHOTO/Gustavo_wnfitn.jpg",
       "preview": "Representante de Turma e Esportes do Sétimo ano.",
+      "WhatsApp": "https://wa.me/558598301887",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante das Atividades Esportivas e de Classes pela EKOA no Sétimo ano.",
@@ -153,6 +204,8 @@
       "name": "João Vitor",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920274/ECOA/PHOTO/JoaoVitor_n0kl8j.jpg",
       "preview": "Representante de Turma e Esportes do Nono ano.",
+      "WhatsApp": "https://wa.me/558592339241",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante das Atividades Esportivas e de Classes pela EKOA no nono ano.",
@@ -171,6 +224,8 @@
       "name": "Lara Holanda",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920332/ECOA/PHOTO/LaraHolanda_pzulvt.jpg",
       "preview": "Representante de Turma do Sexto ano.",
+      "WhatsApp": "https://wa.me/558592954273",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante de Classe pela EKOA no Sexto ano.",
@@ -178,7 +233,6 @@
             "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
             "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores.",
             "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano."
-
           ]
         }
       ]
@@ -187,6 +241,8 @@
       "name": "Lara Tavares",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920287/ECOA/PHOTO/LaraTavares_ottvfe.jpg",
       "preview": "Representante de Turma do Sexto ano.",
+      "WhatsApp": "https://wa.me/558587367366",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante de Classe pela EKOA no Sexto ano.",
@@ -194,7 +250,6 @@
             "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano.",
             "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores.",
             "Biblioteca da Escola: Responsável por fazer a seleção dos livros recomendados para a biblioteca da escola."
-
           ]
         }
       ]
@@ -203,6 +258,8 @@
       "name": "Sayyid",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682182742/ECOA/PHOTO/Sayyid_hctgis.jpg",
       "preview": "Representante de Turma do Sétimo ano.",
+      "WhatsApp": "https://wa.me/558594040593",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante de Classe pela EKOA no Sétimo ano.",
@@ -219,6 +276,8 @@
       "name": "Rodrigo",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682378161/ECOA/PHOTO/Rodrigo_aezmfu.jpg",
       "preview": "Representante de Turma do Sétimo ano.",
+      "WhatsApp": "https://wa.me/558596611620",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": "Representante de Classe pela EKOA no Sétimo ano.",
@@ -233,6 +292,8 @@
       "name": "João Lucas",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920595/ECOA/PHOTO/NonPhoto_uk5aox.png",
       "preview": "Representante de Turma do Nono ano.",
+      "WhatsApp": "",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
       "propostas": [
         {
           "titulo": null,
