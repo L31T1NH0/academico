@@ -17,7 +17,7 @@ function App() {
           COLÉGIO ACADÊMICO!
         </span>
       </div>
-      <p className="lg:text-lg max-w-3xl text-zinc-950 max-sm:mr-12 sm:text-sm max-sm:text-xs font-inter mb-4">
+      <p className="lg:text-lg max-w-3xl text-zinc-950 sm:text-sm max-sm:text-xs font-inter mb-4">
         Seja Ativo na vida acadêmica! Vote nas eleições do grêmio, escolhendo o
         candidato comprometido! aproveite as oportunidades da nossa chapa.
         Oferecemos atividades de interesse, estimulando habilidades e interação
