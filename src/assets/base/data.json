@@ -2,62 +2,6 @@
   "icon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681921968/ECOA/ICON/icon_d9tujc.png",
   "CandidatosECOA": [
     {
-      "name": "Arthur",
-      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920561/ECOA/PHOTO/Arthur_mdcvbk.jpg",
-      "preview": "100% focado promover um ambiente escolar harmonioso e inclusivo, é essencial garantir um espaço onde cada indivíduo possa expressar sua opinião sem receio de ser julgado. Para isso, é necessário criar um ambiente organizado e acolhedor, onde todos se sintam respeitados e valorizados. A participação ativa de cada aluno é crucial para construir uma comunidade escolar forte e colaborativa.",
-      "WhatsApp": "https://wa.me/558586821572",
-      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
-      "propostas": [
-        {
-          "titulo": "Esportes:",
-          "regulamentos": [
-            "1 - Incentivo de Esportes na Escola: A proposta de incentivo de esportes na escola tem como objetivo principal promover uma cultura esportiva saudável e estimular os alunos a se envolverem em atividades físicas. Para isso, é importante que a escola ofereça um maior incentivo aos alunos para a pratica de esportes e atividades físicas que atendam às diferentes habilidades e interesses dos alunos. É possíve; apresentar os esportes e estimular a prática, além de realizar atividades durante o horário de aula, como aulas de educação física e torneios.",
-            "2 - Verificar materiais esportivos na escola: A verificação dos materiais esportivos na escola é importante para garantir que os alunos possam praticar esportes com segurança, conforto e qualidade. É necessário avaliar a condição dos materiais, como bolas, redes, entre outros. Caso necessário, é importante investir em novos materiais que, em grande parte, são baratos, ou realizar manutenção nos que já existem."
-          ]
-        },
-        {
-          "titulo": "Clubes de esportes, jogos, etc...:",
-          "regulamentos": [
-            "1 - Criar clubes para atividades extracurriculares, tais como esportes, jogos, entre outros. Os clubes esportivos podem incluir esportes como futebol, basquete, vôlei, e mais. Os clubes de jogos podem oferecer opções como xadrez, damas, RPG, videogames, entre outros. O objetivo é proporcionar aos alunos uma oportunidade de se engajar em atividades que sejam de seu interesse e fomentar a interação social.",
-            "2 - Promover competições e eventos para os clubes, como torneios esportivos, campeonatos de jogos, apresentações, etc... A realização de competições e eventos ajuda a estimular o espírito de equipe, o desenvolvimento de habilidades específicas e a criatividade.",
-            "3 - Incentivar a participação dos alunos na organização dos clubes e eventos, como membros de comissões organizadoras, árbitros, monitores, entre outros. Essa iniciativa promove o desenvolvimento de habilidades de liderança, organização e trabalho em equipe."
-          ]
-        },
-        {
-          "titulo": "Taxas escolares:",
-          "regulamentos": [
-            "1 - Realizar uma revisão dos preços dos produtos vendidos na cantina escolar, levando em consideração o custo, despesas operacionais e a margem de lucro desejada. Com base nessa revisão, fazer ajustes nos preços dos produtos, garantindo que sejam justos e acessíveis para os alunos, mas ainda assim gerem receita suficiente para manter a operação da cantina e fornecer produtos de qualidade."
-          ]
-        },
-        {
-          "titulo": "Jornal acadêmico:",
-          "regulamentos": [
-            "1 - Jornal periódico dirigido pelos alunos: A escola pode estimular a produção de um jornal periódico, em que os próprios alunos sejam os responsáveis pela criação e edição do conteúdo. envolver alunos de diferentes áreas, como jornalismo, design gráfico, literatura, entre outras, e permitir que eles desenvolvam habilidades como pesquisa, redação, edição de imagem, entre outras. O jornal pode abordar temas relevantes para a comunidade escolar, como eventos, atividades, projetos e notícias relacionadas à escola. o jornal deve ser distribuído gratuitamente para toda a comunidade escolar, permitindo que os alunos compartilhem suas ideias e perspectivas com os demais colegas e professores.",
-            "2 - Formação de uma equipe editorial: Os alunos interessados em participar da criação e produção do jornal devem se reunir e formar uma equipe editorial. A equipe será responsável por escolher as pautas, realizar entrevistas, escrever as matérias, editar as imagens e diagramar o jornal.",
-            "3 - Definição de temas e pautas: A equipe editorial deve definir os temas e pautas que serão abordados no jornal. As pautas podem ser relacionadas a eventos da escola, atividades extracurriculares, entrevistas com professores e alunos, reportagens sobre temas da atualidade, entre outros assuntos.",
-            "4 - Cronograma flexível para o jornal: O jornal será produzido e editado pelos alunos e terá um cronograma flexível que permita a adaptação do conteúdo à disponibilidade de tempo e recursos. Os alunos poderão se organizar em grupos para a produção de cada edição e terão autonomia para definir o tema, as matérias e os prazos de entrega. O objetivo é estimular a criatividade, a colaboração e a responsabilidade dos alunos na produção de conteúdos jornalísticos."
-          ]
-        },
-        {
-          "titulo": "Verificação de Necessidade da Escola e das Turmas:",
-          "regulamentos": [
-            "1 - Identificar as necessidades da escola e das turmas a fim de promover melhorias e garantir um ambiente de aprendizado adequado.",
-            "2 - Realizar reuniões com professores, coordenadores e diretores para discutir as necessidades da escola e das turmas e Realizar pesquisas com alunos e responsáveis para identificar suas necessidades e expectativas.",
-            "3 - Avaliar o desempenho escolar e comportamental dos alunos para identificar possíveis demandas, Analisar relatórios e registros de ocorrências na escola para identificar problemas recorrentes e Verificar a disponibilidade de recursos e materiais didáticos para as turmas.",
-            "4 - Elaborar um plano de ação para atender às necessidades identificadas, Definir prioridades para as ações a serem tomadas, Comunicar as medidas a serem tomadas aos envolvidos e Estabelecer prazos para a implementação das medidas.",
-            "5 - Monitoramento e Avaliação: Monitorar a implementação das medidas tomadas, Avaliar os resultados das medidas tomadas e Realizar novas verificações periódicas para identificar novas necessidades e garantir a continuidade das melhorias."
-          ]
-        },
-        {
-          "titulo": "Prateleiras:",
-          "regulamentos": [
-            "1 - Prateleiras para organização: A instalação de prateleiras pode ser uma ótima opção para melhorar a organização e o aproveitamento do espaço nas salas de aula.",
-            "2 - Prateleiras no banheiro: A instalação de prateleiras no banheiro pode ajudar a organizar os itens de higiene pessoal e manter o ambiente limpo e organizado."
-          ]
-        }
-      ]
-    },
-    {
       "name": "Domenyk",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920322/ECOA/PHOTO/Domenyk_mtxusf.jpg",
       "preview": "Empenhado Com o objetivo de melhorar o ambiente escolar inclusivo e valorizar a participação dos alunos na escola, é fundamental assegurar a qualidade do ambiente educacional. É preciso fornecer aos alunos voz e visibilidade para que se sintam representados e ouvidos. Dessa forma, todos poderão desfrutar de uma escola acolhedora e inclusiva, onde a participação de todos é FUNDAMENTAL!",
@@ -91,7 +35,7 @@
           ]
         },
         {
-          "titulo": "Mobiliario Escolar",
+          "titulo": "Mobiliario Escolar:",
           "regulamentos": [
             "1 - Investir em cadeiras: Enfrentamos problemas com cadeiras antigas e desgastadas que podem prejudicar a postura dos alunos e até causar desconforto ou machucados durante as aulas. Uma proposta é investir em cadeiras novas de forma gradual, substituindo aos poucos as cadeiras antigas e desgastadas. Dessa forma, a escola pode oferecer um ambiente mais confortável e saudável para os alunos, sem precisar realizar um grande investimento de uma só vez.",
             "2 - Cadeiras para pessoas canhotas: Muitas pessoas canhotas enfrentam dificuldades ao utilizar cadeiras e mesas projetadas para destros. Uma proposta é investir em cadeiras especiais para pessoas canhotas, com braços e suportes de escrita do lado esquerdo. Isso pode ajudar a melhorar o conforto e a postura dos alunos canhotos, permitindo que se concentrem melhor durante as aulas. "
@@ -185,6 +129,79 @@
       ]
     },
     {
+      "name": "Arthur",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1681920561/ECOA/PHOTO/Arthur_mdcvbk.jpg",
+      "preview": "100% focado promover um ambiente escolar harmonioso e inclusivo, é essencial garantir um espaço onde cada indivíduo possa expressar sua opinião sem receio de ser julgado. Para isso, é necessário criar um ambiente organizado e acolhedor, onde todos se sintam respeitados e valorizados. A participação ativa de cada aluno é crucial para construir uma comunidade escolar forte e colaborativa.",
+      "WhatsApp": "https://wa.me/558586821572",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
+      "propostas": [
+        {
+          "titulo": "Esportes:",
+          "regulamentos": [
+            "1 - Incentivo de Esportes na Escola: A proposta de incentivo de esportes na escola tem como objetivo principal promover uma cultura esportiva saudável e estimular os alunos a se envolverem em atividades físicas. Para isso, é importante que a escola ofereça um maior incentivo aos alunos para a pratica de esportes e atividades físicas que atendam às diferentes habilidades e interesses dos alunos. É possíve; apresentar os esportes e estimular a prática, além de realizar atividades durante o horário de aula, como aulas de educação física e torneios.",
+            "2 - Verificar materiais esportivos na escola: A verificação dos materiais esportivos na escola é importante para garantir que os alunos possam praticar esportes com segurança, conforto e qualidade. É necessário avaliar a condição dos materiais, como bolas, redes, entre outros. Caso necessário, é importante investir em novos materiais que, em grande parte, são baratos, ou realizar manutenção nos que já existem."
+          ]
+        },
+        {
+          "titulo": "Clubes de esportes, jogos, etc...:",
+          "regulamentos": [
+            "1 - Criar clubes para atividades extracurriculares, tais como esportes, jogos, entre outros. Os clubes esportivos podem incluir esportes como futebol, basquete, vôlei, e mais. Os clubes de jogos podem oferecer opções como xadrez, damas, RPG, videogames, entre outros. O objetivo é proporcionar aos alunos uma oportunidade de se engajar em atividades que sejam de seu interesse e fomentar a interação social.",
+            "2 - Promover competições e eventos para os clubes, como torneios esportivos, campeonatos de jogos, apresentações, etc... A realização de competições e eventos ajuda a estimular o espírito de equipe, o desenvolvimento de habilidades específicas e a criatividade.",
+            "3 - Incentivar a participação dos alunos na organização dos clubes e eventos, como membros de comissões organizadoras, árbitros, monitores, entre outros. Essa iniciativa promove o desenvolvimento de habilidades de liderança, organização e trabalho em equipe."
+          ]
+        },
+        {
+          "titulo": "Taxas escolares:",
+          "regulamentos": [
+            "1 - Realizar uma revisão dos preços dos produtos vendidos na cantina escolar, levando em consideração o custo, despesas operacionais e a margem de lucro desejada. Com base nessa revisão, fazer ajustes nos preços dos produtos, garantindo que sejam justos e acessíveis para os alunos, mas ainda assim gerem receita suficiente para manter a operação da cantina e fornecer produtos de qualidade."
+          ]
+        },
+        {
+          "titulo": "Jornal acadêmico:",
+          "regulamentos": [
+            "1 - Jornal periódico dirigido pelos alunos: A escola pode estimular a produção de um jornal periódico, em que os próprios alunos sejam os responsáveis pela criação e edição do conteúdo. envolver alunos de diferentes áreas, como jornalismo, design gráfico, literatura, entre outras, e permitir que eles desenvolvam habilidades como pesquisa, redação, edição de imagem, entre outras. O jornal pode abordar temas relevantes para a comunidade escolar, como eventos, atividades, projetos e notícias relacionadas à escola. o jornal deve ser distribuído gratuitamente para toda a comunidade escolar, permitindo que os alunos compartilhem suas ideias e perspectivas com os demais colegas e professores.",
+            "2 - Formação de uma equipe editorial: Os alunos interessados em participar da criação e produção do jornal devem se reunir e formar uma equipe editorial. A equipe será responsável por escolher as pautas, realizar entrevistas, escrever as matérias, editar as imagens e diagramar o jornal.",
+            "3 - Definição de temas e pautas: A equipe editorial deve definir os temas e pautas que serão abordados no jornal. As pautas podem ser relacionadas a eventos da escola, atividades extracurriculares, entrevistas com professores e alunos, reportagens sobre temas da atualidade, entre outros assuntos.",
+            "4 - Cronograma flexível para o jornal: O jornal será produzido e editado pelos alunos e terá um cronograma flexível que permita a adaptação do conteúdo à disponibilidade de tempo e recursos. Os alunos poderão se organizar em grupos para a produção de cada edição e terão autonomia para definir o tema, as matérias e os prazos de entrega. O objetivo é estimular a criatividade, a colaboração e a responsabilidade dos alunos na produção de conteúdos jornalísticos."
+          ]
+        },
+        {
+          "titulo": "Verificação de Necessidade da Escola e das Turmas:",
+          "regulamentos": [
+            "1 - Identificar as necessidades da escola e das turmas a fim de promover melhorias e garantir um ambiente de aprendizado adequado.",
+            "2 - Realizar reuniões com professores, coordenadores e diretores para discutir as necessidades da escola e das turmas e Realizar pesquisas com alunos e responsáveis para identificar suas necessidades e expectativas.",
+            "3 - Avaliar o desempenho escolar e comportamental dos alunos para identificar possíveis demandas, Analisar relatórios e registros de ocorrências na escola para identificar problemas recorrentes e Verificar a disponibilidade de recursos e materiais didáticos para as turmas.",
+            "4 - Elaborar um plano de ação para atender às necessidades identificadas, Definir prioridades para as ações a serem tomadas, Comunicar as medidas a serem tomadas aos envolvidos e Estabelecer prazos para a implementação das medidas.",
+            "5 - Monitoramento e Avaliação: Monitorar a implementação das medidas tomadas, Avaliar os resultados das medidas tomadas e Realizar novas verificações periódicas para identificar novas necessidades e garantir a continuidade das melhorias."
+          ]
+        },
+        {
+          "titulo": "Prateleiras:",
+          "regulamentos": [
+            "1 - Prateleiras para organização: A instalação de prateleiras pode ser uma ótima opção para melhorar a organização e o aproveitamento do espaço nas salas de aula.",
+            "2 - Prateleiras no banheiro: A instalação de prateleiras no banheiro pode ajudar a organizar os itens de higiene pessoal e manter o ambiente limpo e organizado."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kézia",
+      "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1683106580/ECOA/PHOTO/Kezia_kmtnoi.jpg",
+      "preview": "Representante de Turma e Esportes do Oitavo ano.",
+      "WhatsApp": "https://wa.me/558589357011",
+      "whatsicon": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682413575/ECOA/ICON/WhatsApp_sku4f1.png",
+      "propostas": [
+        {
+          "titulo": "Representante de Concursos e de Classe pela EKOA no Oitavo ano.",
+          "regulamentos": [
+            "Representação de Clubes: Projetos de clube pela EKOA serão representados por mim na turma do oitavo ano.",
+            "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
+            "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores."
+          ]
+        }
+      ]
+    },
+    {
       "name": "Gustavo",
       "foto": "https://res.cloudinary.com/dwx8c4qi2/image/upload/v1682295764/ECOA/PHOTO/Gustavo_wnfitn.jpg",
       "preview": "Representante de Turma e Esportes do Sétimo ano.",
@@ -214,7 +231,7 @@
             "Representante de comunicação: garanto o acesso a informação na Turma diariamente.",
             "Avaliação dos Professores: Responsável por fazer a avaliação bimestral dos professores.",
             "Avaliação dos Professores: Anoto de forma criteriosa as críticas feitas pelos alunos para avaliação dos professores.",
-            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Sexto ano.",
+            "Monitoramento e Avaliação: Responsável por verificar o cumprimento das propostas prometidas pela chapa na turma do Nono ano.",
             "Biblioteca da Escola: Responsável por fazer a seleção dos livros recomendados para a biblioteca da escola."
           ]
         }
